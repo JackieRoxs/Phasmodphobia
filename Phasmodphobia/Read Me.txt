@@ -1,0 +1,15 @@
+Phasmophobia Private Server
+---------------------------
+
+Please Note, Modding Phasmophobia is Against the EULA of the Game, we take no responsibility of damages
+The server only works on legally aquired Steam Copies of the game. 
+
+	• Download the latest version of Steam Depot Downloader : https://github.com/SteamRE/DepotDownloader/releases
+	• Download the latest version of Phasmophobia throuigh Steam
+		○ Make Sure Auto-Update isn't on
+		○ For Fastest Result, place on same drive as this folder
+		○ Whenever game needs to update make sure to run Switcher and Switch to Live Server
+	• Extract the Steam Depot Downloader into a folder
+	• Run Downgrade.bat
+	• Run Switcher.bat
+		○ Run Switcher anytime you want to switch between Live servers and Private Servers
